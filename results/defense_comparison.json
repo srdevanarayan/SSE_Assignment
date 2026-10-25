@@ -7,7 +7,7 @@
       "precision_macro": 0.9909556499383267,
       "recall_macro": 0.9909490407525819,
       "f1_macro": 0.9909369719306232,
-      "inference_ms_per_image": 0.10966037040125229,
+      "inference_ms_per_image": 0.10444458620022487,
       "confusion_matrix": [
         [
           977,
@@ -138,7 +138,7 @@
       "precision_macro": 0.5038093864533268,
       "recall_macro": 0.4761367848990016,
       "f1_macro": 0.4798492735007387,
-      "inference_ms_per_image": 0.06958378170020296,
+      "inference_ms_per_image": 0.07026682650030125,
       "confusion_matrix": [
         [
           754,
@@ -269,7 +269,7 @@
       "precision_macro": 0.023961459932576274,
       "recall_macro": 0.017386290701735033,
       "f1_macro": 0.019566876517882338,
-      "inference_ms_per_image": 0.06830072759985342,
+      "inference_ms_per_image": 0.07479559400071593,
       "confusion_matrix": [
         [
           105,
@@ -400,7 +400,7 @@
       "precision_macro": 0.5038093864533268,
       "recall_macro": 0.4761367848990016,
       "f1_macro": 0.4798492735007387,
-      "inference_ms_per_image": 0.07253880699863657,
+      "inference_ms_per_image": 0.06782490230143594,
       "confusion_matrix": [
         [
           754,
@@ -531,7 +531,7 @@
       "precision_macro": 0.025123337966947414,
       "recall_macro": 0.016734964866183876,
       "f1_macro": 0.019413507949776157,
-      "inference_ms_per_image": 0.08386968850099948,
+      "inference_ms_per_image": 0.07453537399960623,
       "confusion_matrix": [
         [
           101,
@@ -664,7 +664,7 @@
       "precision_macro": 0.9893865252010914,
       "recall_macro": 0.9894717072037589,
       "f1_macro": 0.9894075686162142,
-      "inference_ms_per_image": 0.1124241081006403,
+      "inference_ms_per_image": 0.06641013539829146,
       "confusion_matrix": [
         [
           977,
@@ -795,7 +795,7 @@
       "precision_macro": 0.9348356455263603,
       "recall_macro": 0.9349028413027003,
       "f1_macro": 0.934627488956405,
-      "inference_ms_per_image": 0.07365936260011949,
+      "inference_ms_per_image": 0.06836384939906566,
       "confusion_matrix": [
         [
           959,
@@ -926,7 +926,7 @@
       "precision_macro": 0.9366269515554493,
       "recall_macro": 0.9367131045778206,
       "f1_macro": 0.936424496436449,
-      "inference_ms_per_image": 0.07367266740020569,
+      "inference_ms_per_image": 0.06851870029931888,
       "confusion_matrix": [
         [
           957,
@@ -1057,7 +1057,7 @@
       "precision_macro": 0.9502533241150548,
       "recall_macro": 0.9503314621930319,
       "f1_macro": 0.9501335999386591,
-      "inference_ms_per_image": 0.11414333879929472,
+      "inference_ms_per_image": 0.0708196654002677,
       "confusion_matrix": [
         [
           967,
@@ -1188,7 +1188,7 @@
       "precision_macro": 0.9354980974757361,
       "recall_macro": 0.9355275458336163,
       "f1_macro": 0.9352750897582475,
-      "inference_ms_per_image": 0.11044724010025675,
+      "inference_ms_per_image": 0.06740512219948869,
       "confusion_matrix": [
         [
           960,
@@ -1321,7 +1321,7 @@
       "precision_macro": 0.9869488288956786,
       "recall_macro": 0.9865398649943623,
       "f1_macro": 0.9867149036675178,
-      "inference_ms_per_image": 0.07910368819939322,
+      "inference_ms_per_image": 0.06649044139958278,
       "confusion_matrix": [
         [
           976,
@@ -1452,7 +1452,7 @@
       "precision_macro": 0.9649698303545076,
       "recall_macro": 0.9640854856379464,
       "f1_macro": 0.9643968375435913,
-      "inference_ms_per_image": 0.06906969789924915,
+      "inference_ms_per_image": 0.06648375400018267,
       "confusion_matrix": [
         [
           972,
@@ -1583,7 +1583,7 @@
       "precision_macro": 0.9667153858768188,
       "recall_macro": 0.9658275098818183,
       "f1_macro": 0.9661486940741899,
-      "inference_ms_per_image": 0.07424067530137109,
+      "inference_ms_per_image": 0.0666871542998706,
       "confusion_matrix": [
         [
           975,
@@ -1714,7 +1714,7 @@
       "precision_macro": 0.9500170384467543,
       "recall_macro": 0.948915004836062,
       "f1_macro": 0.9492738971398985,
-      "inference_ms_per_image": 0.07151932989891066,
+      "inference_ms_per_image": 0.06851329550027004,
       "confusion_matrix": [
         [
           962,
@@ -1845,7 +1845,7 @@
       "precision_macro": 0.9250647503360332,
       "recall_macro": 0.9237480370623752,
       "f1_macro": 0.9240950913950785,
-      "inference_ms_per_image": 0.07651202879915217,
+      "inference_ms_per_image": 0.06885248700054944,
       "confusion_matrix": [
         [
           952,
@@ -1978,7 +1978,7 @@
       "precision_macro": 0.9843603478681053,
       "recall_macro": 0.9838132053318788,
       "f1_macro": 0.9840408407383341,
-      "inference_ms_per_image": 0.13904625340037455,
+      "inference_ms_per_image": 0.07071438129842136,
       "confusion_matrix": [
         [
           976,
@@ -2109,7 +2109,7 @@
       "precision_macro": 0.9697723797726845,
       "recall_macro": 0.9689952008495366,
       "f1_macro": 0.9692822144711982,
-      "inference_ms_per_image": 0.11780465799874947,
+      "inference_ms_per_image": 0.0727433326001119,
       "confusion_matrix": [
         [
           972,
@@ -2240,7 +2240,7 @@
       "precision_macro": 0.9714925021646383,
       "recall_macro": 0.9707160927565667,
       "f1_macro": 0.9710056663438396,
-      "inference_ms_per_image": 0.08648701040001469,
+      "inference_ms_per_image": 0.07161259849945054,
       "confusion_matrix": [
         [
           975,
@@ -2371,7 +2371,7 @@
       "precision_macro": 0.9723091140919097,
       "recall_macro": 0.97146859361681,
       "f1_macro": 0.971774471638998,
-      "inference_ms_per_image": 0.11929236959931586,
+      "inference_ms_per_image": 0.06642032380077581,
       "confusion_matrix": [
         [
           971,
@@ -2502,7 +2502,7 @@
       "precision_macro": 0.9699120180102995,
       "recall_macro": 0.9691029042616884,
       "f1_macro": 0.9694027488143178,
-      "inference_ms_per_image": 0.11354416470021533,
+      "inference_ms_per_image": 0.06900481750053586,
       "confusion_matrix": [
         [
           972,

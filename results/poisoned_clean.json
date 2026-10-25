@@ -5,7 +5,7 @@
   "precision_macro": 0.9910665205637994,
   "recall_macro": 0.9910783698631688,
   "f1_macro": 0.9910659531035726,
-  "inference_ms_per_image": 0.07475745210158494,
+  "inference_ms_per_image": 0.06974816970086976,
   "confusion_matrix": [
     [
       979,

@@ -4,17 +4,17 @@
 
 | Setting | Accuracy | Loss | Precision | Recall | F1 | Inference (ms/img) |
 |---|---|---|---|---|---|---|
-| Baseline, clean | 99.10% | 0.0269 | 0.9910 | 0.9909 | 0.9909 | 0.1077 |
+| Baseline, clean | 99.10% | 0.0269 | 0.9910 | 0.9909 | 0.9909 | 0.0997 |
 
-Single-image latency: 0.271 ms
+Single-image latency: 0.256 ms
 
 ## 2. Attack 1 - adversarial examples (eps = 0.2)
 
 | Setting | Accuracy | Loss | Precision | Recall | F1 | Inference (ms/img) |
 |---|---|---|---|---|---|---|
-| baseline, clean | 99.10% | 0.0269 | 0.9910 | 0.9909 | 0.9909 | 0.1077 |
-| baseline, fgsm | 47.91% | 1.8237 | 0.5038 | 0.4761 | 0.4798 | 0.1166 |
-| baseline, pgd | 1.72% | 7.3961 | 0.0240 | 0.0174 | 0.0196 | 0.0770 |
+| baseline, clean | 99.10% | 0.0269 | 0.9910 | 0.9909 | 0.9909 | 0.0997 |
+| baseline, fgsm | 47.91% | 1.8237 | 0.5038 | 0.4761 | 0.4798 | 0.0960 |
+| baseline, pgd | 1.72% | 7.3961 | 0.0240 | 0.0174 | 0.0196 | 0.0788 |
 
 ## 3. Attack 2 - backdoor poisoning (5.00% poisoned, target label 7)
 
@@ -38,8 +38,8 @@ Full metrics (loss, F1, inference time) for each cell are in results/defense_com
 
 | Setting | Accuracy | Loss | Precision | Recall | F1 | Inference (ms/img) |
 |---|---|---|---|---|---|---|
-| Robust, clean | 98.68% | 0.0371 | 0.9869 | 0.9865 | 0.9867 | 0.0791 |
-| Robust, PGD white-box | 92.50% | 0.2290 | 0.9251 | 0.9237 | 0.9241 | 0.0765 |
+| Robust, clean | 98.68% | 0.0371 | 0.9869 | 0.9865 | 0.9867 | 0.0665 |
+| Robust, PGD white-box | 92.50% | 0.2290 | 0.9251 | 0.9237 | 0.9241 | 0.0689 |
 
 ## 5. Data integrity check (defense against poisoning)
 

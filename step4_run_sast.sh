@@ -13,7 +13,9 @@ bandit sast_examples/insecure_example.py -f txt -o results/sast/bandit_insecure_
 cat results/sast/bandit_insecure_example.txt
 
 echo "== pip-audit: known vulnerabilities in the installed packages =="
+rm -f results/sast/pip_audit.txt                    # delete the old report first
 pip-audit -o results/sast/pip_audit.txt
+[ -s results/sast/pip_audit.txt ] || echo "No known vulnerabilities found" > results/sast/pip_audit.txt
 cat results/sast/pip_audit.txt
 
 echo "Reports saved in results/sast/"

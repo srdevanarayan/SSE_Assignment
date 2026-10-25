@@ -3,6 +3,10 @@ torchvision>=0.17
 numpy
 scikit-learn
 matplotlib
+# minimum safe versions of indirect dependencies (pip-audit findings, step 4)
+pillow>=13.0.0
+filelock>=4.2.1
+setuptools>=84.1.0
 # security tools (step 4)
 bandit
 pip-audit
