@@ -1,0 +1,8 @@
+{
+  "clean_set_passed": true,
+  "poisoned_set_passed": false,
+  "poisoned_samples_actual": 3000,
+  "poisoned_samples_flagged": 3000,
+  "detection_recall": 1.0,
+  "detection_precision": 1.0
+}
